@@ -2,7 +2,7 @@
 
 **Author:** _\<your name\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-3-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-3-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-3-patti102.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-3-patti102)
 
 **Due date:** 2016/02/23
 
@@ -19,7 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw3.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+This was a fun assignment. I think it was pretty useful because iteration is the biggest difference between the math we usually work with and what a computer is good for, so it was definitely valuable to consider it this way. The one thing was that root_finder_examples.py asked for command line arguments, which I used successfully in the terminal, but I don't think that they are compatible with iPython notebooks. Either way, this module can be run successfully in the terminal.
 
 ## Honor Pledge
 
@@ -28,6 +28,9 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+Again, I always look up error messages and Python docs. Other than that, just the book and my own code, plus whatever Dr. Dressel tells me in class.
+
 Signed,
 
 _\<your name\>_
+Taylor Patti
